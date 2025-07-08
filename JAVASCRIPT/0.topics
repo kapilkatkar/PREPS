@@ -1,0 +1,61 @@
+JS 
+0.airbnb blog 
+1.bind, apply, call  ->polyfils , 
+2.map, reduce, and filter ->polyfils 
+3.SSR, CSR -> 100% clarity pahije ya vedes
+4.Array methods - sare ke sare nam se hi yad ho jayenge dhayn deke kr lena
+5.Optimizations likhlena 
+6.what are the ES6+ features
+7.custom hook with creating one two
+8.Closure:
+9.stale Closure:
+10.lexical scope
+11.regular fun vs normal fun
+12.IIFE use case
+13.event loop
+14.micro and macro task queue
+15.call back queue
+16.callback function*
+17.call stack
+18.Pseudo element, Pseudo class difference
+19.debouncing
+20.call bind apply*
+21.anync await *
+22.promises*
+23.diffennce bet anync await & promises
+24.fetch & using nync await
+25.deep copy and shallow copy
+26.json.parse()
+27.stringfy.json
+28.why script tag below body tag
+29.Script tag async vs differ
+30.advance selectors //stuctured
+31.html 5 features
+32.functions
+33.Hoisting
+34.excecution context
+35.Grid and flex differnce
+36.this (must)
+37.Event delegation
+38.Destructuring & spread/rest
+39.Debounce vs throttle
+40.== vs === (common trap)
+41.Memory management (for senior roles)
+42.local and session storage
+43.why we add headers in api
+44.Modules (ESM vs CommonJS)
+45.Service Workers
+46.Web APIs (localStorage, sessionStorage, IndexedDB, WebSockets)
+47.Error Handling (try-catch, custom errors, error boundaries)
+48.Debouncing vs Throttling (performance optimizations)
+49.Regular Expressions (RegEx)
+50.Intersection Observer
+51.WebAssembly
+52.Shadow DOM
+53.Destructuring Assignment (deep dive)
+54.Higher-Order Functions
+55.Proxy & Reflect
+56.Event Loop and Async Patterns (detailed breakdown)
+57.Context API (React)
+58.Dynamic Import
+59.Cross-origin Resource Sharing (CORS)
